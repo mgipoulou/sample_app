@@ -28,7 +28,7 @@ Rails.application.configure do
     :domain         => 'heroku.com',
     :enable_starttls_auto => true
 
-
+}
 
 
   # Enable Rack::Cache to put a simple HTTP cache in front of your application
